@@ -20,7 +20,7 @@ This is a flexible and scalable backend template for an eCommerce application bu
 3. Start building your custom eCommerce solution by extending and modifying the provided modules.
 4. Deploy the application on your preferred hosting environment.
 
-##Technologies Used:
+## Technologies Used:
 
 * ASP.NET Core: For building a robust, cross-platform web API.
 * Entity Framework Core: As an Object-Relational Mapper (ORM) to handle database operations.
